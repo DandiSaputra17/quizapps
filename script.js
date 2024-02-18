@@ -36,6 +36,15 @@ const questions = [
     ],
   },
   {
+    question: "What is bigger than this world?",
+    answers: [
+      { text: "Mount Everest", correct: false },
+      { text: "Rusia", correct: false },
+      { text: "Your Heart", correct: true },
+      { text: "Laniakea Supercluster", correct: false },
+    ],
+  },
+  {
     question: "Do you love yourself?",
     answers: [
       { text: "YAAA!!!", correct: false },
